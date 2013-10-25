@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PicSha</string>
+    <string name="action_settings">Settings</string>
+    <string name="take_button">Take pic</string>
+    <string name="send_button">Send pic</string>
+    <string name="menu_camshot">Take a snapshot of the camera</string>
+    <string name="menu_existing_pic">Use existing pic</string>
+    <integer-array name="loic_number"></integer-array>
+
+</resources>
